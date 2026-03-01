@@ -2,6 +2,8 @@
 
 A **ManimGL** project that animates the full compilation pipeline for a Bloqade squin circuit: from logical gates through native placement to qubit routing on a physical topology.
 
+![Layer 2 Visualization](bloqade-visualizer-image.png)
+
 ## What it does
 
 `squin_qat_smoke.py` defines a single scene, **`SquinQATSmokeScene`**, that runs in three layers:
