@@ -31,6 +31,7 @@ From the repo root:
 pip install bloqade
 pip install bloqade.lanes
 pip install bloqade.circuit
+pip install quantum-animation-toolbox
 python3 -m manimlib demo/squin_qat_smoke.py SquinQATSmokeScene
 ```
 
