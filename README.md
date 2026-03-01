@@ -35,8 +35,6 @@ pip install quantum-animation-toolbox
 python3 -m manimlib demo/squin_qat_smoke.py SquinQATSmokeScene
 ```
 
-This opens the ManimGL window and plays the three-layer animation. The circuit used is the built-in one: 3 qubits, `H(q0)`, `CX(q0,q1)`, `CX(q0,q2)` (see `demo_logical` / `demo_native` in the script).
-
 ## Changing the circuit
 
 Edit the two kernels at the top of `squin_qat_smoke.py`:
